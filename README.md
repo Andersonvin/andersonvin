@@ -7,9 +7,9 @@
 ##
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anderson-vinicius/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonvin&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonvin&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <a href="https://github.com/Andersonvin">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andersonvin&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonvin&layout=compact&langs_count=7&theme=discord_old_blurple"/>
 </div>
 
 ##
