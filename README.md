@@ -2,7 +2,7 @@
 
 - 🔭 Hoje trabalho como corretor de imóveis
 - 🌱 Estudando Web Full Stack
--
+- 🖥️ Migrando de área 
 
 ##
 
